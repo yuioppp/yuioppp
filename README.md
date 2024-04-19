@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/yuioppp/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuioppp&hide=contribs,issues&count_private=true&show_icons=true&theme=material-palenight" alt="yuioppp github stats" width="480" height="180" />
 </a>
 
-<a href="https://github.com/yuioppp/github-readme-stats">
+<!--
+<a  href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuioppp&layout=compact&theme=material-palenight" alt="Top Langs" height="153" />
 </a>
-
-
+-->
