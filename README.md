@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yuioppp&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-</div>
+<a href="https://github.com/yuioppp/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuioppp&hide=contribs,issues&count_private=true&show_icons=true&theme=material-palenight" alt="yuioppp github stats" width="480" height="180" />
+</a>
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuioppp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
-</div>
+<a href="https://github.com/yuioppp/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuioppp&layout=compact&theme=material-palenight" alt="Top Langs" width="400" height="153" />
+</a>
 
-<div align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yuioppp" /> 
-</div>
 
